@@ -1,9 +1,9 @@
-# 👋 Hey there, I'm Hanif Alfa Rizqi  
+# 👋 Hey there, I'm Hanif Alfa Rizky  
 
-**Agentic AI Architect** | **Big Data Engineer** | **Fullstack Problem Solver**
+**Agentic AI Architect** | **Multi Agent orchestrator** | **Automation Specialist**
 
 I build **autonomous systems** that learn, reason, and collaborate — combining AI cognition with real-world data at scale.  
-Focused on **Agentic AI**, **data-driven architectures**, and the next generation of intelligent systems.
+Focused on **Agentic AI**, **Multi Agent architectures**, and the next generation of intelligent systems.
 
 ---
 
@@ -15,9 +15,9 @@ Focused on **Agentic AI**, **data-driven architectures**, and the next generatio
 ---
 
 ### ⚙️ Tech Arsenal
-**Languages:** Python, TypeScript, Go  
-**Frameworks:** LangChain, FastAPI, Next.js, PyTorch  
-**Infra & Data:** Airflow, GCP, PostgreSQL, Neo4j, Docker, Kubernetes  
+**Languages:** Python, TypeScript  
+**Frameworks:** LangChain, FastAPI, Next.js, PyTorch, AutoGen, CrewAI, Huggingface transformers, AutoGPt  
+**Infra & Data:** Airflow, GCP, PostgreSQL, AWS, Docker, Kubernetes  
 
 ---
 
@@ -48,9 +48,9 @@ Focused on **Agentic AI**, **data-driven architectures**, and the next generatio
 ---
 
 ### 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanifalfa)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hanifalfa)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://hanifalfa.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-alfa-rizki-792831300)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/twntye1ght?t=DlaBF4UBi1rAv88iu4CJ5Q&s=09)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/hanifalfa4149-wq)
 
 ---
 
