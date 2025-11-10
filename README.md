@@ -2,7 +2,7 @@
 
 **Agentic AI Architect** | **Multi Agent orchestrator** | **Automation Specialist**
 
-I build **autonomous systems** that learn, reason, and collaborate — combining AI cognition with real-world data at scale.  
+I build **autonomous systems** that learn, reason, and collaborate. Combining AI cognition with real-world data at scale.  
 Focused on **Agentic AI**, **Multi Agent architectures**, and the next generation of intelligent systems.
 
 ---
@@ -10,7 +10,7 @@ Focused on **Agentic AI**, **Multi Agent architectures**, and the next generatio
 ### 🧠 What I'm Exploring
 - Multi-agent reasoning and adaptive architectures  
 - Scalable data pipelines for AI cognition  
-- AI systems that move beyond perception — into *action*  
+- AI systems that move beyond perception into *action*  
 
 ---
 
@@ -58,4 +58,4 @@ Focused on **Agentic AI**, **Multi Agent architectures**, and the next generatio
 When I’m not optimizing agents or breaking clusters,  
 I’m probably reading about cognition, chaos theory, or sci-fi futures.  
 
-> *"Intelligence isn’t about having answers — it’s about evolving better questions."*
+> *"Intelligence isn’t about having answers, it’s about evolving better questions."*
