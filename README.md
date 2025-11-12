@@ -24,9 +24,9 @@ Focused on **Agentic AI**, **Multi Agent architectures**, and the next generatio
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧩 **AgentLab** | platform for AI agent experiment | LangChain, Python |
+| 🧩 **Salessight** | AI sales & inventory agent for SMBs, generating automatic sales reports. | LangChain, Pandas |
 | 📊 **DataForge** | Modular data pipeline for intelligent systems | Airflow, GCP, PostgreSQL |
-| 🧠 **CogNet** | Research on scalable multi-agent cognition | PyTorch, Neo4j |
+| 🧠 **NeuraOps** | Multi-agent system for managing business operations (Marketing, Research, Analyst, and more). | Langgraph, CrewAI, Chroma, Fast API |
 
 ---
 
