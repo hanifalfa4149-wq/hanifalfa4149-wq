@@ -24,7 +24,7 @@ Focused on **Agentic AI**, **Multi Agent architectures**, and the next generatio
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧩 **AgentLab** | Experimental framework for agentic collaboration and task orchestration | LangChain, Python |
+| 🧩 **AgentLab** | platform for AI agent experiment | LangChain, Python |
 | 📊 **DataForge** | Modular data pipeline for intelligent systems | Airflow, GCP, PostgreSQL |
 | 🧠 **CogNet** | Research on scalable multi-agent cognition | PyTorch, Neo4j |
 
@@ -54,8 +54,6 @@ Focused on **Agentic AI**, **Multi Agent architectures**, and the next generatio
 
 ---
 
-### 🧩 Fun Stuff
-When I’m not optimizing agents or breaking clusters,  
-I’m probably reading about cognition, chaos theory, or sci-fi futures.  
+### 🧩 Some quotes 
 
 > *"Intelligence isn’t about having answers, it’s about evolving better questions."*
