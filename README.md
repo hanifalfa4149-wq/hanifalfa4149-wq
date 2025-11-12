@@ -47,13 +47,6 @@ Focused on **Agentic AI**, **Multi Agent architectures**, and the next generatio
 
 ---
 
-### 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-alfa-rizki-792831300)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/twntye1ght?t=DlaBF4UBi1rAv88iu4CJ5Q&s=09)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/hanifalfa4149-wq)
-
----
-
 ### 🧩 Some quotes 
 
 > *"Intelligence isn’t about having answers, it’s about evolving better questions."*
